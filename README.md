@@ -29,7 +29,6 @@
   <img align="right" alt="Rafa-yoda" src="https://im2.ezgif.com/tmp/ezgif-2-644353ae0392.gif">
 </div>
     
-  ![Snake animation](https://github.com/samuelferreiras/samuelferreiras/blob/output/github-contribution-grid-snake.svg)
-    
+  ![Snake animation](https://github.com/samuelferreiras/samuelferreiras/blob/output/github-contribution-grid-snake.svg)   
 </div>
   
