@@ -25,7 +25,8 @@
   <div> 
   <a href="https://instagram.com/samueiferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatosamueiferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "https://twitter.com/SamueiKKKK"><img src="https://im.ezgif.com/tmp/ezgif-1-3ba94ca9cae0.gif">
+  <a href= "https://twitter.com/SamueiKKKK">
+  <img src="https://im.ezgif.com/tmp/ezgif-1-3ba94ca9cae0.gif">
 </div>
     
   ![Snake animation](https://github.com/samuelferreiras/samuelferreiras/blob/output/github-contribution-grid-snake.svg)   
