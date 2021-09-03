@@ -11,24 +11,24 @@
 > <img align="center" alt="Fabricio-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg">
 > <img align="center" alt="Fabricio-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
 > <img align="center" alt="Fabricio-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-
- ### Currently Studying ✍️:
-
-> I am currently studying the "Full Stack JavaScript PRO Programmer" course at [ONEBITCODE] school. Where we will create a copy of Evernote and Netflix.
+> 
+Study in Progress of Technologies...
 
 ### My Stats📊:
   <a href="https://github.com/samuelferreiras">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelferreiras&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelferreiras&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+ ### Currently Studying ✍️:
+
+> I am currently studying the "Full Stack JavaScript PRO Programmer" course at [ONEBITCODE] school. Where we will create a copy of Evernote and Netflix.
  
+ ### Ways of Contact: 👇
   <div> 
   <a href="https://instagram.com/samueiferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatosamueiferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "https://twitter.com/SamueiKKKK">
    
-  <img align="right" alt="Rafa-yoda" src="https://im.ezgif.com/tmp/ezgif-1-3ba94ca9cae0.gif">
-</div>
 
 </div>
     
