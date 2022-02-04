@@ -22,7 +22,7 @@ Study in Progress of Technologies...
 
  ### Currently Studying ✍️:
 
-> I am currently studying the "Full Stack JavaScript PRO Programmer" course at [ONEBITCODE] school. Where we will create a copy of Evernote and Netflix.
+> I am currently studying the "BootCamp" course at [ONEBITCODE] school. Where we will create an application based on Ifood using Rails and React.
  
   Contact Me:👇
   <div> 
