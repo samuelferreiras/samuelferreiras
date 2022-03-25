@@ -21,7 +21,6 @@ Study in Progress of Technologies...
 </div>
 
  ### Currently Studying ✍️:
-;
 > I am currently studying the "BootCamp" course at [ONEBITCODE] school. Where we will create some projects, including a world currency converter and an Ifood clone, we will use Rails and React as the main ones.
  
   Contact Me:👇
