@@ -19,9 +19,6 @@ Study in Progress of Technologies...
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelferreiras&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelferreiras&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
- ### Currently Studying ✍️:
-> I am currently studying the "BootCamp" course at [ONEBITCODE] school. Where we will create some projects, including a world currency converter and an Ifood clone, we will use Rails and React as the main ones.
  
   Contact Me:👇
   <div> 
