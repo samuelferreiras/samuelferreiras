@@ -1,4 +1,4 @@
- ### Hi! My name is Samuel Ferreira. 
+ ### Hi! My name is Samuel. 
  
    ### My Skills:
 
