@@ -21,14 +21,13 @@ Study in Progress of Technologies...
 </div>
 
  ### Currently Studying ✍️:
-> I am currently studying the "BootCamp" course at [ONEBITCODE] school. Where we will create some projects, including a world currency converter and an Ifood clone, we will use Rails and React as the main ones.
+>Currently studying Ruby on Rails.
  
   Contact Me:👇
   <div> 
   <a href = "mailto:contatosamueiferrreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
-
-</div>
+e</div>
     
   ![Snake animation](https://github.com/samuelferreiras/samuelferreiras/blob/output/github-contribution-grid-snake.svg)   
 </div>
