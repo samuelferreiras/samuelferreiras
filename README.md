@@ -13,10 +13,6 @@
 > <img align="center" alt="Fabricio-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 > 
 Study in Progress of Technologies...
-
-
- ### Currently Studying ✍️:
->Currently studying Ruby on Rails.
  
   Contact Me:👇
   <div> 
