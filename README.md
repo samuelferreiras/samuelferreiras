@@ -14,11 +14,6 @@
 > 
 Study in Progress of Technologies...
 
-### My Stats📊:
-  <a href="https://github.com/samuelferreiras">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelferreiras&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelferreiras&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
  ### Currently Studying ✍️:
 >Currently studying Ruby on Rails.
@@ -29,5 +24,4 @@ Study in Progress of Technologies...
    
 e</div>
     
-  ![Snake animation](https://github.com/samuelferreiras/samuelferreiras/blob/output/github-contribution-grid-snake.svg)   
 </div>
