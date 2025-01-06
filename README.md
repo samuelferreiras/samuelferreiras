@@ -2,17 +2,12 @@
  
    ### My Skills:
 
-> <img align="center" alt="Fabricio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-> <img align="center" alt="Fabricio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-> <img align="center" alt="Fabricio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-> <img align="center" alt="Fabricio-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-> <img align="center" alt="Fabricio-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
-> <img align="center" alt="Fabricio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
-> <img align="center" alt="Fabricio-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg">
-> <img align="center" alt="Fabricio-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-> <img align="center" alt="Fabricio-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-> 
-Study in Progress of Technologies...
+<img align="center" alt="Samuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Samuel-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="Samuel-PowerBI" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg">
+<img align="center" alt="Samuel-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="Samuel-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="center" alt="Samuel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  
   Contact Me:👇
   <div> 
